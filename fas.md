@@ -2,8 +2,8 @@
 
 ## Header Style 2
 
-*Bulleted list
+* Bulleted list
 
-*Bulleted list
+* Bulleted list
 
 Hello from foruhar
